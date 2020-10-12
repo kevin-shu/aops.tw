@@ -1,0 +1,53 @@
+body {
+    color: #383838;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+header.header {
+    background-color: #ed1940;
+    background-image: url("/images/patch-red.png");
+    background-size: 100px auto;
+    color: white;
+}
+
+.leading-form-container {
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+section.why {
+    background-color: #f9f9fa;
+}
+
+.reason h3 {
+    font-size: 1.4em;
+}
+.reason img {
+    width: 96px;
+    margin-bottom: 20px;
+}
+
+section.quotation {
+    background-color: #ed1940;
+    background-image: url("/images/patch-red.png");
+    background-size: 100px auto;
+    color: white;
+}
+
+img.wolfram {
+    height: 360px;
+    float: right;
+}
+
+section.teaching-cases {
+    background-color: #f9f9fa;
+}
+
+footer.footer {
+    background-color: #1b365d;
+    color:white;
+}
